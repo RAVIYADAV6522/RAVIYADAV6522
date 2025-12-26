@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>I’m a **Machine Learning & AI Engineer in training** with a strong foundation in **Data Structures, Algorithms, and Competitive Programming**. I enjoy building **ML-driven systems** and understanding how models work end-to-end — from **data preprocessing and training** to **deployment and optimization**.<br><br>I have hands-on experience working on **machine learning and deep learning projects**, including **time-series forecasting**, **neural networks**, and **model optimization**, using tools like **Python, PyTorch, TensorFlow, and Scikit-learn**. I’ve also worked on **full-stack and backend development**, building **REST APIs** and scalable systems using **Node.js, Express.js, NestJS, and MongoDB**.<br><br>I value **clean engineering**, **honest collaboration**, and **problem-solving at scale**, and I’m actively preparing for **ML / AI Engineer roles** at product-based companies.<br>
 
 
