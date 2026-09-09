@@ -1,5 +1,18 @@
 
-## 👋 About Me<br><br>I’m a **Machine Learning & AI Engineer in training** with a strong foundation in **Data Structures, Algorithms, and Competitive Programming**. I enjoy building **ML-driven systems** and understanding how models work end-to-end — from **data preprocessing and training** to **deployment and optimization**.<br><br>I have hands-on experience working on **machine learning and deep learning projects**, including **time-series forecasting**, **neural networks**, and **model optimization**, using tools like **Python, PyTorch, TensorFlow, and Scikit-learn**. I’ve also worked on **full-stack and backend development**, building **REST APIs** and scalable systems using **Node.js, Express.js, NestJS, and MongoDB**.<br><br>I value **clean engineering**, **honest collaboration**, and **problem-solving at scale**, and I’m actively preparing for **ML / AI Engineer roles** at product-based companies.<br>
+## 👋 About Me
+
+I'm an **AI/ML researcher and engineer** — a B.Tech Artificial Intelligence student (2023–2027) working on **deep learning for energy and physical systems**: building models that respect the physical laws of the real world, not just fit the data.
+
+I'm the **second of five authors** on an **IEEE APPEEC 2026** paper on physics-informed load forecasting — presented in Singapore, forthcoming in IEEE Xplore — as part of my ongoing research on power-grid forecasting and grid optimization (the **Watt-IF** project, which includes learning-based grid-partition policies).
+
+**What I work on**
+- 🔬 **Research** — physics-informed & constrained ML, and time-series forecasting
+- 🧠 **ML / DL** — model design, training, benchmarking, and optimization in **Python, PyTorch, TensorFlow, scikit-learn**
+- ⚙️ **Systems & backend** — REST APIs and scalable services with **Node.js, Express, NestJS, MongoDB**
+
+I care about **clean engineering, honest collaboration, and problem-solving at scale**, and I'm currently deepening my foundations in **NLP, computer vision, and system design**. Competitive programming is a constant thread that keeps my algorithmic and mathematical problem-solving sharp.
+
+📫 Open to research collaborations and opportunities in AI/ML.
 
 
 # 💻 Tech Stack:
